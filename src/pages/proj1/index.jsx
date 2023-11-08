@@ -5,6 +5,7 @@ const Proj1 = () => {
   const handleClick = () => {
     alert('clicked')
   }
+  
   return (
     <div name="button1" className="h-screen w-full bg-red-500 ">
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full md:flex-row">
